@@ -1,2 +1,4 @@
-# first-repo
-This is my first project of github. 
+a# first-repo
+This is my first project of git
+<br>
+Author Rakesh Rajput
